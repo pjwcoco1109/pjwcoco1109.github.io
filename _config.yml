@@ -23,7 +23,7 @@ repository               : "pjwcoco1109/pjwcoco1109.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/2026-11-10.png"
+  avatar           : "profile.png"
   name             : "park jung won"
   pronouns         : # example: "she/her"  
   bio              : "student"
