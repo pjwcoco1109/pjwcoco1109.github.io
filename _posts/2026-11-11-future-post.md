@@ -6,6 +6,9 @@ tags:
   - PKNU
   - Opensource
   - student
+  - diligent
+  - smart
+  - topgrade
   - pretty
 ---
 
